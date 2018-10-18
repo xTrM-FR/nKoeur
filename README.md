@@ -7,6 +7,6 @@ sans causer de dégats matériel.
 
 # Attention
 
-Je ne suis en aucun cas responsable des dommages ou pertes à cause de ce
-logiciel. Il est à utiliser avec précaution et par des personnes
-n'ayant pas d'intentions malveillantes.
+Je ne suis en aucun cas responsable des dommages ou pertes causées 
+par ce logiciel. Il est à utiliser avec précaution et par des 
+personnes n'ayant pas d'intentions malveillantes.
