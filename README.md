@@ -1,4 +1,4 @@
-# nKoeur AION (v1.0.3)
+# nKoeur AION (v1.0.7)
 nKoeur est un programme modulable pour Windows
 utilisant les languages Batch et Visual Basic.
 
