@@ -16,7 +16,7 @@ Pour le mettre en place, placez les fichiers nKoeur dans un dossier
 Exemple: (vous pouvez renommer le boot.vbs en poney.vbs par exemple)  
 D:/nKoeur/boot.vbs  
 E:/UnFichierSympa/boot.vbs  
-F:/CLIQUEZ BANDES DE PONEYS/boot.vbs  
+F:/CLIQUEZ BANDE DE PAPILLONS/boot.vbs  
 
 nKoeur détectera automatiquement son dossier.
 
