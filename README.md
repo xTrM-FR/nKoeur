@@ -13,6 +13,11 @@ périphérique de stockage externe.
 Pour le mettre en place, placez les fichiers nKoeur dans un dossier 
 à la racine de votre périphérique.
 
+Exemple: (vous pouvez renommer le boot.vbs en poney.vbs par exemple)
+D:/nKoeur/boot.vbs
+E:/UnFichierSympa/boot.vbs
+F:/CLIQUEZ BANDES DE PONEYS/boot.vbs
+
 # Attention
 
 Je ne suis en aucun cas responsable des dommages ou pertes causées 
