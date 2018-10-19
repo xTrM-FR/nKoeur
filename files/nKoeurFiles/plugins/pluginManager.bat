@@ -15,14 +15,15 @@ for /R . %%q IN (*.vbs) do (
 		
 		:: Cherche si le fichier .vbs est un plugin
 		:: (si il s'appelle par "pwe.vbs", "PluginWrapperExecutor")
-		if "%%~nxF"=="pwe.vbs" (
+		if "%%~nxF"=="pwe.vbs" do (
 			
 			:: Lance le plugin
 			start %%q
+			echo started %%q
 		)
 	)
 	
 )
-
+pause
 echo done.
 exit
