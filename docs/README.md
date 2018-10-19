@@ -5,7 +5,7 @@ La version actuelle est: v2.0.1
 ### Nom de version:  
 Le nom de actuel est: BUBBLE  
   
-  
+<br />
   
 # Utilisation
 nKoeur a été conçu pour être executé à partir d'une clé USB, ou autre périphérique de stockage externe.
@@ -25,6 +25,8 @@ nKoeur s'installera alors automatiquement sur celui-ci
 Video de setup nKoeur:  
 ##### ./apt-get install youtube  
 ##### 0% - ETA: 95 jours
+
+<br />
 
 # Attention
 Je ne suis en aucun cas responsable des dommages, pertes, ou explosions nucléaires
