@@ -18,7 +18,10 @@ D:/nKoeur/boot.vbs
 E:/UnFichierSympa/boot.vbs  
 F:/CLIQUEZ BANDES DE PONEYS/boot.vbs  
 
-nKoeur détéctera automatiquement son dossier
+nKoeur détectera automatiquement son dossier.
+
+Enfin, il suffira d'ouvrir le fichier boot.vbs sur l'ordinateur "ciblé".
+nKoeur s'installera alors automatiquement sur l'ordinateur.
 
 # Attention
 
