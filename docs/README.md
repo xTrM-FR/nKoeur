@@ -23,8 +23,8 @@ Enfin, il suffira d'ouvrir le fichier boot.vbs sur l'ordinateur "ciblé".
 nKoeur s'installera alors automatiquement sur celui-ci
 
 Video de setup nKoeur:  
-./apt-get install youtube  
-0% - ETA: 95 jours
+##### ./apt-get install youtube  
+##### 0% - ETA: 95 jours
 
 # Attention
 Je ne suis en aucun cas responsable des dommages, pertes, ou explosions nucléaires
