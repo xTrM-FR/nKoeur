@@ -5,6 +5,14 @@ utilisant les languages Batch et Visual Basic.
 Il a été créé dans le but de s'ammuser avec les ordinateurs de proches ou d'amis,
 sans causer de dégats matériel.
 
+# Utilisation
+
+Il a été conçu pour être executé à partir d'une clé USB, ou autre
+périphérique de stockage externe.
+
+Pour le mettre en place, placez les fichiers nKoeur dans un dossier 
+à la racine de votre périphérique.
+
 # Attention
 
 Je ne suis en aucun cas responsable des dommages ou pertes causées 
