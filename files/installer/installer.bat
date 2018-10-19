@@ -20,7 +20,7 @@ xcopy "../launcher/launcher.bat" "%USERPROFILE%\AppData\Roaming\Microsoft\Window
 :: Temps d'attente
 PING localhost -n 4 >NUL
 
-:: Lancement de nKoeur (via base launcher)
+:: Lancement de nKoeur (via USB launcher)
 cd ../
 cd launcher/
 start launcher.vbs
