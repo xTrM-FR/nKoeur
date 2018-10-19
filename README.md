@@ -1,4 +1,4 @@
-# nKoeur BUBBLE (v2.0.0-SNAPSHOT)
+# nKoeur BUBBLE (v2.0.1)
 nKoeur est un programme modulable pour Windows
 utilisant les languages Batch et Visual Basic.
 
