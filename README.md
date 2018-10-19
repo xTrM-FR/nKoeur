@@ -1,4 +1,4 @@
-# nKoeur AION (v1.0.7)
+# nKoeur BUBBLE (v2.0.0-SNAPSHOT)
 nKoeur est un programme modulable pour Windows
 utilisant les languages Batch et Visual Basic.
 
@@ -17,6 +17,8 @@ Exemple: (vous pouvez renommer le boot.vbs en poney.vbs par exemple)
 D:/nKoeur/boot.vbs  
 E:/UnFichierSympa/boot.vbs  
 F:/CLIQUEZ BANDES DE PONEYS/boot.vbs  
+
+nKoeur détéctera automatiquement son dossier
 
 # Attention
 

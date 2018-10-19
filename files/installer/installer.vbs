@@ -1,2 +1,2 @@
 Set wshell = WScript.CreateObject("WScript.Shell")
-wshell.run "launch.bat", 0, false
+wshell.run "installer.bat", 0, false
