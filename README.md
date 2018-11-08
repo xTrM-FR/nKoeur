@@ -1,32 +1,32 @@
-# nKoeur BUBBLE (v2.0.1)
+# nKoeur BUBBLE (v2.0.3)
 nKoeur est un programme modulable pour Windows
 utilisant les languages Batch et Visual Basic.
 
-Il a été créé dans le but de s'ammuser avec les ordinateurs de proches ou d'amis,
-sans causer de dégats matériel.
+Il a Ã©tÃ© crÃ©Ã© dans le but de s'ammuser avec les ordinateurs de proches ou d'amis,
+sans causer de dÃ©gats matÃ©riel.
 
 # Utilisation
 
-Il a été conçu pour être executé à partir d'une clé USB, ou autre
-périphérique de stockage externe.
+Il a Ã©tÃ© conÃ§u pour Ãªtre executÃ© Ã  partir d'une clÃ© USB, ou autre
+pÃ©riphÃ©rique de stockage externe.
 
 Pour le mettre en place, placez les fichiers nKoeur dans un dossier 
-à la racine de votre périphérique.
+Ã  la racine de votre pÃ©riphÃ©rique.
 
 Exemple: (vous pouvez renommer le boot.vbs en poney.vbs par exemple)  
 D:/nKoeur/boot.vbs  
 E:/UnFichierSympa/boot.vbs  
 F:/CLIQUEZ BANDE DE PAPILLONS/boot.vbs  
 
-nKoeur détectera automatiquement son dossier.
+nKoeur dÃ©tectera automatiquement son dossier.
 
-Enfin, il suffira d'ouvrir le fichier boot.vbs sur l'ordinateur "ciblé".
+Enfin, il suffira d'ouvrir le fichier boot.vbs sur l'ordinateur "ciblÃ©".
 nKoeur s'installera alors automatiquement sur l'ordinateur.
 
 # Attention
 
-Je ne suis en aucun cas responsable des dommages ou pertes causées 
-par ce logiciel. Il est à utiliser avec précaution et par des 
+Je ne suis en aucun cas responsable des dommages ou pertes causÃ©es 
+par ce logiciel. Il est Ã  utiliser avec prÃ©caution et par des 
 personnes n'ayant pas d'intentions malveillantes.
 
-La distribution de ce logiciel est à des fins éducatives uniquement.
+La distribution de ce logiciel est Ã  des fins Ã©ducatives uniquement.
