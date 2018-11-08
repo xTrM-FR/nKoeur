@@ -1,6 +1,6 @@
 ﻿# Informations
 ### Version:  
-La version actuelle est: v2.0.1   
+La version actuelle est: v2.0.3   
   
 ### Nom de version:  
 Le nom de actuel est: BUBBLE  
